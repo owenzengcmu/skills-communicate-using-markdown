@@ -9,3 +9,8 @@ Here is a code for initializing the git repo
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+Here is a task list
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
